@@ -37,7 +37,7 @@ line-height: 22px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 15px;
     line-height: 17px;
     color: #000000;
 }
@@ -46,7 +46,7 @@ line-height: 22px;
     width: 231px;
     height: 36px;
     left: 662px;
-    top: 70px;
+    top: 45px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -59,7 +59,7 @@ line-height: 22px;
     width: 106px;
     height: 22px;
     left: 662px;
-    top: 126px;
+    top: 105px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -68,7 +68,7 @@ line-height: 22px;
     color: #000000;
 }
 .photo {
-    padding: 64px 829px 1519px 521px;
+    padding: 55px 829px 1519px 521px;
     width: 96px;
     height: 91px;
     left: 617px;
@@ -78,7 +78,7 @@ line-height: 22px;
 .work {
 position: absolute;
 left: 632px;
-top: 465px;
+top: 485px;
 font-family: 'Inter';
 font-style: normal;
 font-weight: 500;
