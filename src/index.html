@@ -19,6 +19,10 @@
         font-size: 16px;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         }
+      input {
+        width: 200px; 
+        height: 25px;
+      }
     </style>
   </head>
   <body>
@@ -106,6 +110,29 @@
     </section>
     <div class="hrs2">   
     </div>
+    <section class="Mem">
+      <p><center>Мем</center></p>
+      <iframe width="500" height="350" src="https://www.youtube.com/embed/baY3SaIhfl0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+      </iframe>
+    </section>
+    <section class="wish-me">
+      <p><center>Пожелай мне чего-нибудь</center></p>
+      <form action="/my-handling-form-page" method="post">
+        <ul>
+          <li>
+            <label for="write">Напиши своё пожелание:</label>
+            <input type="text" id="write"> 
+          </li>
+          <li>
+            <input id="check" type="checkbox">
+            <label for="check">Отправить анонимно</label>
+          </li>
+          <li>
+            <input type="button" name="отправить" value="Отправить"/>
+          </li>
+        </ul>
+      </form>
+    </section>
     <footer>
       <div class="сontact-with-me">
         <p><center>Связаться со мной</center></p>

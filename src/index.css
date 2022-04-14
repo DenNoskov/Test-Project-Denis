@@ -1,6 +1,6 @@
 body {
-    height: 1674px;
-    width: 1446px;
+    height: 4000px;
+    width: 700px;
     left: 302px;
     top: -335px;
     border-radius: 0px;
@@ -194,18 +194,50 @@ body {
     width: 529px;
     height: 200px;
 }
+.Mem {
+    position: absolute;
+    width: 614px;
+    height: 429px;
+    left: 413px;
+    top: 1500px;
+    background: #FFFFFF;
+    border-radius: 3px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0em;    
+}
+.Mem iframe {
+    position: absolute;
+    left: 60px;   
+}
+.wish-me {
+    position: absolute;
+    width: 614px;
+    height: 200px;
+    left: 413px;
+    top: 2000px;
+    background: #FFFFFF;
+    border-radius: 3px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0em;   
+}
 .hrs2 {
     position: absolute;
     width: 614px;
     height: 3px;
     left: 413px;
-    top: 1495px;
+    top: 2250px;
     background: #000000;    
 }
 .сontact-with-me {
     position: absolute;
     left: 637px;
-    top: 1500px;
+    top: 2260px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
@@ -215,7 +247,7 @@ body {
 .number {
     position: absolute;
     left: 447px;
-    top: 1550px;
+    top: 2320px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
@@ -226,7 +258,7 @@ body {
 .number2 {
     position: absolute;
     left: 640px;
-    top: 1550px;
+    top: 2320px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
@@ -238,7 +270,7 @@ body {
     position: absolute;
     padding-left: 35px;
     left: 820px;
-    top: 1550px;
+    top: 2320px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
