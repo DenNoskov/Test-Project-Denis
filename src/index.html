@@ -117,21 +117,17 @@
     </section>
     <section class="wish-me">
       <p><center>Пожелай мне чего-нибудь</center></p>
-      <form action="/my-handling-form-page" method="post">
-        <ul>
-          <li>
-            <label for="write">Напиши своё пожелание:</label>
-            <input type="text" id="write"> 
-          </li>
-          <li>
-            <input id="check" type="checkbox">
-            <label for="check">Отправить анонимно</label>
-          </li>
-          <li>
-            <input type="button" name="отправить" value="Отправить"/>
-          </li>
-        </ul>
-      </form>
+      <div class="forms">
+        <form action="/my-handling-form-page" method="post">
+          <label for="write">Напиши своё пожелание:</label>
+          <input type="text" id="write"> 
+          <input id="check" type="checkbox">
+          <label for="check">Отправить анонимно</label>
+        </form>
+      </div>
+      <div class="buttons">
+        <input type="button" name="отправить" value="Отправить"/>
+      </div>
     </section>
     <footer>
       <div class="сontact-with-me">
